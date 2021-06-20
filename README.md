@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0614.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0619.png)
 
 ## Apache Hudi社区
 
@@ -39,6 +39,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[通过Z-Order技术加速Hudi大规模数据集分析方案](https://mp.weixin.qq.com/s/qos-QGfJbP36qwq9h1lUkQ)
 
 [一文彻底理解Apache Hudi的清理服务](https://mp.weixin.qq.com/s/jIm0P6GnYXMdG6kyg_8bjA)
 

@@ -208,6 +208,8 @@
 
 ## Apache Hudi生态
 
+[Apache Hudi在Hopsworks机器学习的应用](https://mp.weixin.qq.com/s/LBZVeOXdR4t4X6aj6X_Lsg)
+
 [基于Apache Hudi 湖仓一体的大数据生态体系](https://mp.weixin.qq.com/s/eNPKXJHeUR2dE1lTyL7d6w)
 
 [KIP-5：Apache Kylin深度集成Hudi](https://mp.weixin.qq.com/s/pbMU_B8P0R6A9Utuhkivnw)

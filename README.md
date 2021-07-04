@@ -104,6 +104,8 @@
 
 ## Apache Hudi落地解读
 
+[触宝科技基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/LPcWr-o1KWVa-xpAiOwjig)
+
 [基于 Apache Hudi 构建实时数据湖在百信银行的实践](https://mp.weixin.qq.com/s/teFKWFYFbyD1yM2d1uyh-g)
 
 [Apache Hudi在Linkflow构建实时数据湖的生产实践](https://mp.weixin.qq.com/s/u--0XnVGXnSK9E7NvrbzuA)
@@ -143,6 +145,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[Streaming与Hudi、Hive湖仓一体！](https://mp.weixin.qq.com/s/JG75IFnEg3XIa_yhsJCRuw)
 
 [实时数据湖：Flink CDC流式写入Hudi](https://mp.weixin.qq.com/s/JkCbvfJhdz9gT-Tw1pUBIA)
 
